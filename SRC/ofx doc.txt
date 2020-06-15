@@ -1,0 +1,9 @@
+OFX (Open Financial Exchange) 
+Points of interest
+These are the columns inside the DataSet:
+TRNTYPE - Type of transaction: DEBIT or CREDIT
+DTPOSTED - Date of the transaction, formatted YYYYMMDDHHMMSS
+TRNAMT - Amount (negative when it is a DEBIT)
+FITID - Transaction ID CHECKNUM - Number of the check or transaction ID
+MEMO - Small description of the transaction; very useful when you use your debit card
+
